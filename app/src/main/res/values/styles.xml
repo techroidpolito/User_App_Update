@@ -1,0 +1,81 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/top_bg</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="usereditTextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginTop">7dp</item>
+        <item name="background">@color/white</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>/>
+    </style>
+    <style name="onelineuserEditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="background">@drawable/edit_text_round</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:maxHeight">200dp</item>/>
+        <item name="android:maxLines">1</item>/>
+    </style>
+    <style name="fivelineuserEditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="background">@drawable/edit_text_round</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:maxHeight">300dp</item>/>
+        <item name="android:maxLines">5</item>/>
+    </style>
+    <style name="threelineuserEditText">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_marginTop">15dp</item>
+    <item name="background">@drawable/edit_text_round</item>
+    <item name="android:padding">15dp</item>
+    <item name="android:maxHeight">300dp</item>/>
+    <item name="android:maxLines">5</item>/>
+    </style>
+    <style name="userEtTvRl">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>/>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="text_input_layput" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/colorPrimary</item>
+        <item name="boxStrokeWidth">2dp</item>
+    </style>
+    <style name="login_text_input_layput" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/light_yellow</item>
+        <item name="boxStrokeWidth">2dp</item>
+    </style>
+    <style name="login_label_text" parent="@android:style/TextAppearance">
+        <item name="colorAccent">@color/light_yellow</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/light_yellow</item>
+        <item name="android:textCursorDrawable">@color/light_yellow</item>
+    </style>
+    <style name="login_edit_text_theme" parent="@style/AppTheme">
+        <item name="colorAccent">@color/light_yellow</item>
+    </style>
+    <style name="label_text" parent="@android:style/TextAppearance">
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textCursorDrawable">@color/black</item>
+    </style>
+    <style name="edit_text_theme" parent="@style/AppTheme">
+        <item name="colorAccent">@color/black</item>
+    </style>
+</resources>

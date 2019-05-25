@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">EGAL Delivery - Customer</string>
+    <string name="save_menu">Save</string>
+
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="profileImageAddress">profileImageAddress</string>
+    <string name="address">Address</string>
+    <string name="email">eMail</string>
+
+    <string name="customer_details">customer_details</string>
+    <string name="cust_completed">cust_completed</string>
+    <string name="CID">CID</string>
+    <string name="customer_profile_image_folder">customer_profile/</string>
+    <string name="cust_profile_data" translatable="false">cust_data</string>
+    <string name="empty_cust_value" translatable="false">empty_cust</string>
+
+    <string name="email_id_pref">email_id_pref</string>
+    <string name="password_id_pref">password_id_pref</string>
+    <string name="cid_id_pref">cid_id_pref</string>
+
+    <string name="minimum_password">Password too short, enter minimum 8 characters!</string>
+    <string name="enter_password">Enter password!</string>
+    <string name="password_mismatch">Password did not match</string>
+    <string name="enter_email">"Enter email address!"</string>
+    <string name="enter_name">"Enter name!"</string>
+    <string name="enter_phone">"Enter phone number!"</string>
+    <string name="custdetailsExp">User details not available.\nPlease provide the details</string>
+
+    <string name="toast_image_intent_null">Image picker option is missing!</string>
+
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="network_alert">No internet connection has been detected! Please, an internet connection is required. Do you want to check your internet settings now?</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="signup">Sign up</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+
+    <string name="reset_email_title_dialog">Reset e-mail address</string>
+    <string name="reset_email_message_dialog">Are you sure to reset e-Mail address?</string>
+    <string name="reset_email_positive">"Reset e-mail"</string>
+    <string name="email_reset_failed">E-mail address already exists or updation failed. Please retry.</string>
+    <string name="email_validation">"[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z]+"</string>
+    <string name="path_image_uri">path</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_phoneNumber">Phone number</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="hint_name">Full name</string>
+    <string name="data">Data</string>
+
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="internal_error">Server Database Error!</string>
+    <string name="registered_successfully">Registered successfully.</string>
+    <string name="registration_failed">Registration failed.</string>
+    <string name="profile">profile</string>
+    <string name="Uploading">Uploading....</string>
+    <string name="upload_failed">Upload failed</string>
+    <string name="upload_success">Uploaded Successfully.</string>
+
+    <string name="near_me">Near me</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="cart">Cart</string>
+    <string name="account">Account</string>
+</resources>

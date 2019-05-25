@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "299919464909",
+    "firebase_url": "https://userapp-295ff.firebaseio.com",
+    "project_id": "userapp-295ff",
+    "storage_bucket": "userapp-295ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299919464909:android:790c30d006051732",
+        "android_client_info": {
+          "package_name": "com.example.lab1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299919464909-1jdkuk74cah44i8oejsm5b235tm62r5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADd0vuK8bMZRV71by3klfNiu61zk7rsro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299919464909-1jdkuk74cah44i8oejsm5b235tm62r5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299919464909:android:ab05f6c9bf54666b",
+        "android_client_info": {
+          "package_name": "com.gratus.firebaseloginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299919464909-1jdkuk74cah44i8oejsm5b235tm62r5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADd0vuK8bMZRV71by3klfNiu61zk7rsro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299919464909-1jdkuk74cah44i8oejsm5b235tm62r5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299919464909:android:f831237ae412b31c",
+        "android_client_info": {
+          "package_name": "com.gratus.ownerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299919464909-1jdkuk74cah44i8oejsm5b235tm62r5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADd0vuK8bMZRV71by3klfNiu61zk7rsro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299919464909-1jdkuk74cah44i8oejsm5b235tm62r5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299919464909:android:9224ca806e5dfae0",
+        "android_client_info": {
+          "package_name": "com.gratus.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299919464909-1jdkuk74cah44i8oejsm5b235tm62r5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADd0vuK8bMZRV71by3klfNiu61zk7rsro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299919464909-1jdkuk74cah44i8oejsm5b235tm62r5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

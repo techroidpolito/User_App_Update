@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nearby"
+        android:icon="@drawable/placeholder"
+        android:title="@string/near_me" />
+
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/placeholder"
+        android:title="@string/dashboard" />
+
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/cart_icon"
+        android:title="@string/cart" />
+
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/account_icon"
+        android:title="@string/account" />
+
+</menu>
